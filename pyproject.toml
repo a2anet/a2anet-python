@@ -9,7 +9,7 @@ description = 'A package that makes implementing the A2A protocol easy'
 readme = "README.md"
 requires-python = ">=3.13"
 license = "Apache-2.0"
-keywords = []
+keywords = ["a2a", "a2anet", "agent", "agent2agent", "multi-agent", "llm", "ai"]
 authors = [
   { name = "A2A Net", email = "hello@a2anet.com" },
 ]

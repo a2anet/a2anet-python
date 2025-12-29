@@ -1,4 +1,4 @@
-# A2A Net
+# A2A Net Python
 
 [![PyPI - Version](https://img.shields.io/pypi/v/a2anet.svg)](https://pypi.org/project/a2anet)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/a2anet.svg)](https://pypi.org/project/a2anet)
